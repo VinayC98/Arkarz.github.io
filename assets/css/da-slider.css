@@ -53,6 +53,7 @@
 .da-slide h2{
 	color: #fff;
 	font-size: 54px;
+	text:center;
 	width: 80%;
 	top: 0px;
 	white-space: nowrap;
@@ -64,6 +65,7 @@
 .da-slide p{
 	width: 80%;
 	top: 115px;
+	text:center;
 	color: #fff;
 	font-size: 18px;
 	line-height: 26px;
