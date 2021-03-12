@@ -21,7 +21,7 @@
 	height: 100%;
 	top: 0px;
 	left: 0px; 
-	text-align: left;
+	text-align: center;
 }
 .da-slide-current{
 	z-index: 1000;
@@ -53,7 +53,7 @@
 .da-slide h2{
 	color: #fff;
 	font-size: 54px;
-	text:center;
+	text-align:center;
 	width: 80%;
 	top: 0px;
 	white-space: nowrap;
@@ -65,7 +65,7 @@
 .da-slide p{
 	width: 80%;
 	top: 115px;
-	text:center;
+	text-align:center;
 	color: #fff;
 	font-size: 18px;
 	line-height: 26px;
